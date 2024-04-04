@@ -58,4 +58,8 @@ CSS adalah bahasa Cascading Style Sheet dan biasanya digunakan untuk mengatur ta
 
   contoh:
 
+  ![Screenshot 2024-04-04 144742](https://github.com/mrifandi060/muhammad-rifandi/assets/165985106/adc1d4bb-bb40-44fe-9369-a83419203539)
+
+  output:
+
   
