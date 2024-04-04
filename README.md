@@ -37,3 +37,25 @@ contoh:
 output:
 
 ![Screenshot 2024-04-04 132642](https://github.com/mrifandi060/muhammad-rifandi/assets/165985106/06acd55e-fc10-4120-b43d-5a78f95c150a)
+
+## CSS
+### penngertian css
+
+CSS adalah bahasa Cascading Style Sheet dan biasanya digunakan untuk mengatur tampilan elemen yang tertulis dalam bahasa markup, seperti HTML. dengan adanya CSS bisa mengatur mulai dari font, warna tulisan dan latar belakang pada website. 
+
+### fungsi css
+
+* Mempercepat Loading Pada Halaman Website
+* Memudahkan Dalam Pengelolaan Kode
+* Memberikan Banyak Penawaran Variasi Tampilan
+* Membuat Website Enak untuk Dipandang
+
+### struktur yag ada di css
+
+* Selektor: adalah kata kunci untuk memilih elemen HTML yang akan kita beri style, dapat berupa nama tag, class, id, dan atribut. 
+* Blok Deklarasi: dalah tempat kita menuliskan atribut atau properti CSS yang akan diberikan ke pada elemen yang telah diseleksi. Blok deklarasi dimulai atau dibuka dengan tanda kurung { lalu ditutup dengan }.Satu blok deklarasi, bisa dipakai oleh lebih dari satu selektor.
+* Properti dan nilanya: adalah sekumpulan aturan yang akan diberikan kepada elemen yang dipilih.
+
+  contoh:
+
+  
