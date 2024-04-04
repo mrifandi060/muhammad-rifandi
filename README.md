@@ -34,3 +34,6 @@ contoh:
 
 ![Screenshot 2024-04-04 125648](https://github.com/mrifandi060/muhammad-rifandi/assets/165985106/4c1517b3-a8ea-4391-925e-4d8208ccc2b1)
 
+output:
+
+![Screenshot 2024-04-04 132642](https://github.com/mrifandi060/muhammad-rifandi/assets/165985106/06acd55e-fc10-4120-b43d-5a78f95c150a)
