@@ -95,4 +95,8 @@ contoh script:
 
 output: 
 
+![Screenshot 2024-04-04 152140](https://github.com/mrifandi060/muhammad-rifandi/assets/165985106/bf07c3c6-a916-4902-ab0c-64d7e4c6149f)
 
+## REFERENSI
+
+https://www.w3schools.com/
