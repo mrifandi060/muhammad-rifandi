@@ -89,5 +89,10 @@ string HTML
 
 ### struktur pada javascript
 
+contoh script: 
+
+![Screenshot 2024-04-04 152123](https://github.com/mrifandi060/muhammad-rifandi/assets/165985106/ff95aa88-b4e6-41f7-b075-9460608fa9cf)
+
+output: 
 
 
