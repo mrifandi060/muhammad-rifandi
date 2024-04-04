@@ -30,3 +30,7 @@ HTML biasanya ditempatkan atau disimpan pada sebuah file bernama file HTML. Isi 
 * `<title>` yaitu, menampilkan judul halaman website.
 * `<body>` yaitu elemen yang menentukan konten utama dokumen HTML yang muncul di browser.
   
+contoh: 
+
+![Screenshot 2024-04-04 125648](https://github.com/mrifandi060/muhammad-rifandi/assets/165985106/4c1517b3-a8ea-4391-925e-4d8208ccc2b1)
+
