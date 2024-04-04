@@ -63,3 +63,31 @@ CSS adalah bahasa Cascading Style Sheet dan biasanya digunakan untuk mengatur ta
   output:
 
   ![Screenshot 2024-04-04 144808](https://github.com/mrifandi060/muhammad-rifandi/assets/165985106/5d4ddca3-da78-461b-b001-d19b96b6722c)
+
+
+## JAVASCRIPT
+### pegertian javascript
+
+JavaScript adalah bahasa pemrograman yang digunakan dalam pengembangan website agar lebih dinamis dan interaktif.JavaScript dapat meningkatkan fungsionalitas pada halaman web.Dengan JavaScript ini kamu bisa membuat aplikasi, tools, atau bahkan game pada web.
+
+### fungsi javascript
+
+* Kecepatan dan Kesederhanaan
+* Javascript Sangat Fleksibel
+* Fitur yang Kaya dan Fungsi yang Luas
+*  Mengembangkan Game Berbasis Web Browser
+*  Menciptakan Aplikasi Mobile
+
+### Ada 4 cara menampilkan output pada Javascript:
+* Menggunakan Fungsi `console.log();`
+* Menggunakan Fungsi `alert();` i untuk menampilkan jendela
+dialog. 
+* Menggunakan Fungsi `document.write();`
+* Menggunakan `innerHTML.` sebuah atribut di
+dalam (objek) elemen HTML yang berisi
+string HTML
+
+### struktur pada javascript
+
+
+
