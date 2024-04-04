@@ -62,4 +62,4 @@ CSS adalah bahasa Cascading Style Sheet dan biasanya digunakan untuk mengatur ta
 
   output:
 
-  
+  ![Screenshot 2024-04-04 144808](https://github.com/mrifandi060/muhammad-rifandi/assets/165985106/5d4ddca3-da78-461b-b001-d19b96b6722c)
